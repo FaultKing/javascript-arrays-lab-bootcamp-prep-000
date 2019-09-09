@@ -1,6 +1,6 @@
 const app = "I don't do anything."
 
-var restoreKittens(){
+function restoreKittens(){
   return ["Milo", "Otis", "Garfield"]
 };
 
