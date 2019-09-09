@@ -27,6 +27,3 @@ function destructivelyRemoveFirstKitten(name){
   window.kittens.shift(name)
   return window.kittens
 };
-
-
-
